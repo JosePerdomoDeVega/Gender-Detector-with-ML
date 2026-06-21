@@ -1,0 +1,9 @@
+pytest
+deepface
+tf-keras
+scikit-learn
+pandas
+numpy
+joblib
+gradio
+pillow
